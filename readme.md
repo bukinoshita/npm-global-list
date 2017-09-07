@@ -27,6 +27,11 @@ npmGlobalList().then(pkgs => console.log(pkgs))
 Returns a `promise`
 
 
+## Related
+
+- [npm-global-list-cli](https://github.com/bukinoshita/npm-global-list-cli) — CLI for this module
+
+
 ## License
 
 MIT © [Bu Kinoshita](https://bukinoshita.io)
