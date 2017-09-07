@@ -6,6 +6,7 @@
   "repository": "https://github.com/bukinoshita/npm-global-list.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
+  "keywords": ["npm", "node", "package", "module", "yarn", "install", "globall"]
   "scripts": {
     "test": "xo --quiet"
   },
