@@ -19,7 +19,7 @@
     "test": "xo --quiet"
   },
   "dependencies": {
-    "fs-extra": "^4.0.1",
+    "fs-extra": "^8.0.0",
     "global-modules": "^2.0.0"
   },
   "devDependencies": {
