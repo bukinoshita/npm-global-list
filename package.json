@@ -15,6 +15,9 @@
     "install",
     "globall"
   ],
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "xo --quiet"
   },
